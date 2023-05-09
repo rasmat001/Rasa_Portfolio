@@ -7,6 +7,8 @@ Click on the blue links to see full dashboards or SQL codes.
 - Dashboard (Looker Studio)
 - Query
 
+![](/images/RFM.png)
+
 
 
 
