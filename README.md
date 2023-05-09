@@ -7,7 +7,7 @@ Click on the blue links to see full dashboards or SQL codes.
 - [Dashboard](https://lookerstudio.google.com/reporting/6c50f8f5-e0f9-4c05-b420-7b6789e8bfff) (Looker Studio)
 - Query
 
-![](/images/RFM smaller screenshot.jpg)
+![](/images/RFM.jpg)
 
 
 
