@@ -5,7 +5,7 @@ Click on the blue links to see full dashboards or SQL codes.
 ### RFM Analysis
 
 - [Dashboard](https://lookerstudio.google.com/s/s_8Jv3YrPbs) (Looker Studio)
-- [Query](/queries/RFM analysis.sql)
+- [Query](queries/RFM analysis.sql)
 
 ![](/images/RFM.jpg)
 
