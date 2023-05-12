@@ -4,7 +4,7 @@ Click on the blue links to see full dashboards or SQL queries.
 
 ### Marketing Analysis (Session Time Analysis)
 
-The task was to analyze overall trends of all marketing campaigns on one ecommerce site and find out if users tend to spend more time on the website on certain weekdays and how that behavior differs across campaigns.
+The task was to analyze overall trends of all marketing campaigns on Google Merchandise Store and find out if users tend to spend more time on the website on certain weekdays and how that behavior differs across campaigns.
 
 - [Dashboard](https://lookerstudio.google.com/reporting/ae97231a-987f-4a40-8bf5-b33b7ca753a3) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/Session%20Time%20Analysis%20(Marketing).sql)
 
