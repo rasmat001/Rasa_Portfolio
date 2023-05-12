@@ -8,7 +8,7 @@ The task was to analyze overall trends of all marketing campaigns on one ecommer
 
 Main findings:
 - Lower user engagement on the weekends (fewer and shorter user sessions)
-- Most of the sessions and revenue comes from Referral and Organic traffic links
+- Most of the sessions and revenue comes from Referral and Organic traffic 
 - The most successful paid marketing campaigns was Black Friday and Holiday - they generated most revenue, had higher conversion rate and lower cost per acquisition. Whereas Data Share Promo and New Year campaigns had more sessions, but very low conversion rate and higher cost per acquisition
 
 - [Dashboard](https://lookerstudio.google.com/reporting/ae97231a-987f-4a40-8bf5-b33b7ca753a3) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/Session%20Time%20Analysis%20(Marketing).sql)
