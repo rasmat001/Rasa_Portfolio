@@ -19,8 +19,10 @@ Main findings:
 
 The task was to prepare a dashboard and a presentation using data from AdventureWorks database for different departments.
 
-- [Dashboard](https://lookerstudio.google.com/s/ry1_TWDoRjI) , Presentation and Query for Sales Department
-- [Dashboard](https://lookerstudio.google.com/s/pmKR2tVlIRY) , Presentation and Query for Executive Team
+- [Dashboard](https://lookerstudio.google.com/s/ry1_TWDoRjI) (Looker Studio), Presentation and Query for Sales Department
+- [Dashboard](https://lookerstudio.google.com/s/pmKR2tVlIRY) (Looker Studio), Presentation and Query for Executive Team
+
+![](/images/executive_kpi.jpg)
 ### RFM Analysis
 
 - [Dashboard](https://lookerstudio.google.com/s/s_8Jv3YrPbs) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/RFM%20analysis.sql)
