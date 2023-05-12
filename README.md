@@ -38,7 +38,7 @@ The task was to prepare a dashboard and a presentation using data from Adventure
 ### Customer Lifetime Value (CLV) - Cohort Analysis
 
 The task was to calculate CLV using cohort analysis and predict future CLV using cumulative growth % from cohorts where we have data already.
-- Dashboard (Spreadsheet), Query
+- [Dashboard](https://1drv.ms/x/s!AmmVG-hGs2YDgXRoJqFjD3JOybwE?e=IIOq67) (Spreadsheet), Query
 
 ![](/images/cohort_clv.jpg)
 
