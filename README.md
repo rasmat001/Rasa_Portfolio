@@ -13,7 +13,7 @@ Click on the blue links to see full dashboards or SQL codes.
 
 - [Dashboard](https://public.tableau.com/views/FunnelAnalysis_16838888475930/FunnelAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) (Tableau Public) 
 
-![](/images/Funnel Analysis.jpg)
+![](/images/Funnel_Analysis.jpg)
 
 
 
