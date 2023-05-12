@@ -15,7 +15,6 @@ Main findings:
 
 ![](/images/session_time_analysis.jpg)
 
-![](/images/session_time_analysis2.jpg)
 
 ### RFM Analysis
 
