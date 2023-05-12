@@ -9,6 +9,10 @@ Click on the blue links to see full dashboards or SQL codes.
 
 ![](/images/RFM.jpg)
 
+### Funnel Analysis
+
+- [Dashboard](https://public.tableau.com/views/FunnelAnalysis_16838888475930/FunnelAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) (Tableau Public) 
+
 
 
 
