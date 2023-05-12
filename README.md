@@ -35,6 +35,11 @@ The task was to prepare a dashboard and a presentation using data from Adventure
 
 ![](/images/Funnel_Analysis.jpg)
 
+### Customer Lifetime Value (CLV) - Cohort Analysis
+
+The task was to calculate CLV using cohort analysis and predict future CLV using cumulative growth % from cohorts where we have data already.
+- Dashboard (Spreadsheet), Query
+
 
 
 
