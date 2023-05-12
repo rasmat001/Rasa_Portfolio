@@ -22,7 +22,7 @@ cte2 AS (
     SELECT global_session_id,
         MIN(event_timestamp) session_started_at,
         TIMESTAMP_DIFF(MAX(event_timestamp),MIN(event_timestamp), MINUTE) session_time,
-        SUM(CASE WHEN event_name='purchase' THEN 1 ELSE 0 END) purchases_during_session,
+        SUM(CASE WHEN event_name='purchase' AND event_value_in_usd>0 THEN 1 ELSE 0 END) purchases_during_session,
         SUM(event_value_in_usd) revenue
     FROM cte1
     GROUP BY 1),
