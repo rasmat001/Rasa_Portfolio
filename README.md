@@ -1,7 +1,14 @@
 # Rasa_Portfolio
 Here you will find some of the projects that I did while studying Data Analytics course at Turing College. 
 Click on the blue links to see full dashboards or SQL codes.
+### Marketing Analysis (Session Time Analysis)
 
+The task was to analyze overall trends of all marketing campaigns on one ecommerce site and find out if users tend to spend more time on the website on certain weekdays and how that behavior differs across campaigns.
+-Dashboard (Looker Studio)
+- Query
+Main findings:
+- Lower user engagement on the weekend (fewer and shorter user sessions)
+- 
 ### RFM Analysis
 
 - [Dashboard](https://lookerstudio.google.com/s/s_8Jv3YrPbs) (Looker Studio)
