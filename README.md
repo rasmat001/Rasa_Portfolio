@@ -20,7 +20,12 @@ Main findings:
 
 The task was to identify how much time it takes for a user to make a purchase on the website (from first arriving on the website on any given day until their first purchase on that same day). I have also looked into how much time it takes for a user to reach each purchase funnel event.
 
-- [Dashboard](https://lookerstudio.google.com/s/oy-xRp5uNXs), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/Time%20to%20Purchase%20(Product).sql)
+- [Dashboard](https://lookerstudio.google.com/s/oy-xRp5uNXs) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/Time%20to%20Purchase%20(Product).sql)
+
+Main findings:
+- Median time to purchase is 18 minutes
+- A user spends longest time (10min) between adding first item to the cart and starting checkout
+- It takes 4 min to complete a purchase after adding payment info. To improve customer experience we could investigate how to shorten this time
 
 ![](/images/time_to_purchase_funnel.jpg)
 
