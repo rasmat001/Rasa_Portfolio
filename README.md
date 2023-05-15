@@ -20,7 +20,7 @@ Main findings:
 
 The task was to identify how much time it takes for a user to make a purchase on the website (from first arriving on the website on any given day until their first purchase on that same day). I have also looked into how much time it takes for a user to reach each purchase funnel event.
 
-- [Dashboard] (https://lookerstudio.google.com/s/oy-xRp5uNXs)
+- [Dashboard](https://lookerstudio.google.com/s/oy-xRp5uNXs), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/Time%20to%20Purchase%20(Product).sql)
 
 ![](/images/time_to_purchase_funnel.jpg)
 
