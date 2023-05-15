@@ -55,7 +55,7 @@ Main findings:
 ### Customer Lifetime Value (CLV) - Cohort Analysis
 
 The task was to calculate CLV using cohort analysis and predict future CLV using cumulative growth % from cohorts where we have data already.
-- [Dashboard](https://1drv.ms/x/s!AmmVG-hGs2YDgXRoJqFjD3JOybwE?e=IIOq67) (Spreadsheet), Query
+- [Dashboard](https://1drv.ms/x/s!AmmVG-hGs2YDgXRoJqFjD3JOybwE?e=IIOq67) (Spreadsheet),[Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/CLV%20(cohort).sql)
 
 ![](/images/cohort_clv.jpg)
 
