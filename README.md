@@ -16,6 +16,14 @@ Main findings:
 
 ![](/images/session_time_analysis.jpg)
 
+### Product Analysis (Time to Purchase Analysis)
+
+The task was to identify how much time it takes for a user to make a purchase on the website (from first arriving on the website on any given day until their first purchase on that same day). I have also looked into how much time it takes for a user to reach each purchase funnel event.
+
+- [Dashboard] (https://lookerstudio.google.com/s/oy-xRp5uNXs)
+
+![](/images/time_to_purchase_funnel.jpg)
+
 ### Dashboards for Executive and Sales Department
 
 The task was to prepare a dashboard and a presentation using data from AdventureWorks database for different departments.
