@@ -37,7 +37,7 @@ The task was to prepare a dashboard and a presentation using data from Adventure
 - [Dashboard](https://lookerstudio.google.com/s/pmKR2tVlIRY) (Looker Studio) and [Presentation](https://onedrive.live.com/view.aspx?resid=366B346E81B9569!188&ithint=file%2cpptx&authkey=!AGj3gx7Xq0UnyNs) for Executive Team
 
 Main findings:
--Although most of the revenue comes from offline sales, they are unprofitable since quite many products are being sold for a price which is even lower than standard cost
+- Although most of the revenue comes from offline sales, they are unprofitable since quite many products are being sold for a price which is even lower than standard cost
 
 ![](/images/executive_kpi.jpg)
 ### RFM Analysis
