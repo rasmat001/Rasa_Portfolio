@@ -59,5 +59,9 @@ The task was to calculate CLV using cohort analysis and predict future CLV using
 
 ![](/images/cohort_clv.jpg)
 
+### Sellers' Overview in Olist Marketplace
+
+- [Dashboard](https://public.tableau.com/views/Olist-Sellers/Sellers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) (Tableau Public) 
+
 
 
