@@ -3,15 +3,30 @@
 Here you will find some of the projects that I did while studying Data Analytics course at Turing College. 
 Click on the blue links to see full dashboards or SQL queries.
 
+### Customer Behavior and Product Pages Analysis in Online Electronics Store
+
+The task was to identify a unique problem applicable to a chosen dataset. I chose to analyze web events data from an online electronics store. The goal was to improve the conversion rate by addressing the following questions:
+
+- Which stage of the purchase funnel experiences the highest customer drop-off?
+- Are there any trends in customer engagement based on weekdays?
+- Are there specific product pages that are underperforming in terms of conversion rates?
+
+  Key findings:
+- In February, approximately 90% of all sessions ended without adding items to the cart, indicating a significant drop-off in the purchase funnel. Furthermore, the high bounce rate of 69% suggests the need to evaluate the effectiveness of targeted marketing campaigns in reaching the intended audience.
+- The online store experiences lower session and order volumes on weekends. To address this, implementing special promotions and incentives during weekends may help attract more customers.
+- Out of the analyzed product pages with over 100 visits, 28 pages exhibited poor conversion rates ranging from 0% to 3%. It is crucial to optimize these pages by improve factors such as pricing, product descriptions, images, and overall user experience to enhance conversion rates and minimize bounce rates.
+
+- [Dashboard](https://lookerstudio.google.com/reporting/251e15a0-ef59-4f64-bb2c-b21a35e7d069) (Looker Studio), [Query], [Report]
+
 ### Marketing Analysis (Session Time Analysis)
 
-The task was to analyze overall trends of all marketing campaigns on Google Merchandise Store and find out if users tend to spend more time on the website on certain weekdays and how that behavior differs across campaigns.
+The task was to analyze the overall trends of all marketing campaigns on Google Merchandise Store and find out if users tend to spend more time on the website on certain weekdays and how that behavior differs across campaigns.
 
 - [Dashboard](https://lookerstudio.google.com/reporting/ae97231a-987f-4a40-8bf5-b33b7ca753a3) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/Session%20Time%20Analysis%20(Marketing).sql)
 
-Main findings:
+Key findings:
 - Lower user engagement on the weekends (fewer and shorter user sessions)
-- Most of the sessions and revenue comes from Referral and Organic traffic 
+- Most of the sessions and revenue come from Referral and Organic traffic 
 - The most successful paid marketing campaigns was Black Friday and Holiday - they generated most revenue, had higher conversion rate and lower cost per acquisition. Whereas Data Share Promo and New Year campaigns had more sessions, but very low conversion rate and higher cost per acquisition
 
 ![](/images/session_time_analysis.jpg)
@@ -22,9 +37,9 @@ The task was to identify how much time it takes for a user to make a purchase on
 
 - [Dashboard](https://lookerstudio.google.com/s/oy-xRp5uNXs) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/Time%20to%20Purchase%20(Product).sql)
 
-Main findings:
+Key findings:
 - Median time to purchase is 18 minutes
-- A user spends longest time (10min) between adding first item to the cart and starting checkout
+- A user spends the longest time (10min) between adding the first item to the cart and starting the checkout
 - It takes 4 min to complete a purchase after adding payment info. To improve customer experience we could investigate how to shorten this time
 
 ![](/images/time_to_purchase_funnel.jpg)
@@ -36,8 +51,8 @@ The task was to prepare a dashboard and a presentation using data from Adventure
 - [Dashboard](https://lookerstudio.google.com/s/ry1_TWDoRjI) (Looker Studio) and [Presentation](https://1drv.ms/p/s!AmmVG-hGs2YDgT-zzXHP13f_mRfT?e=DJN9YC) for Sales Department
 - [Dashboard](https://lookerstudio.google.com/s/pmKR2tVlIRY) (Looker Studio) and [Presentation](https://onedrive.live.com/view.aspx?resid=366B346E81B9569!188&ithint=file%2cpptx&authkey=!AGj3gx7Xq0UnyNs) for Executive Team
 
-Main findings:
-- Although most of the revenue comes from offline sales, they are unprofitable since quite many products are being sold for a price which is even lower than standard cost
+Key findings:
+- Although most of the revenue comes from offline sales, they are unprofitable since quite many products are being sold for a price that is even lower than standard cost
 
 ![](/images/executive_kpi.jpg)
 ### RFM Analysis
