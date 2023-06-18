@@ -16,7 +16,7 @@ The task was to identify a unique problem applicable to a chosen dataset. I chos
 - The online store experiences lower session and order volumes on weekends. To address this, implementing special promotions and incentives during weekends may help attract more customers.
 - Out of the analyzed product pages with over 100 visits, 28 pages exhibited poor conversion rates ranging from 0% to 3%. It is crucial to optimize these pages by improve factors such as pricing, product descriptions, images, and overall user experience to enhance conversion rates and minimize bounce rates.
 
-- [Dashboard](https://lookerstudio.google.com/reporting/251e15a0-ef59-4f64-bb2c-b21a35e7d069) (Looker Studio), [Query], [Report]
+- [Dashboard](https://lookerstudio.google.com/reporting/251e15a0-ef59-4f64-bb2c-b21a35e7d069) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/capstone_project.sql), [Report]
 
 ### Marketing Analysis (Session Time Analysis)
 
