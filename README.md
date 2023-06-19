@@ -11,7 +11,7 @@ The task was to identify a unique problem applicable to a chosen dataset. I chos
 - Are there any trends in customer engagement based on weekdays?
 - Are there specific product pages that are underperforming in terms of conversion rates?
 
-  Key findings:
+Key findings:
 - In February, approximately 90% of all sessions ended without adding items to the cart, indicating a significant drop-off in the purchase funnel. Furthermore, the high bounce rate of 69% suggests the need to evaluate the effectiveness of targeted marketing campaigns in reaching the intended audience.
 - The online store experiences lower session and order volumes on weekends. To address this, implementing special promotions and incentives during weekends may help attract more customers.
 - Out of the analyzed product pages with over 100 visits, 28 pages exhibited poor conversion rates ranging from 0% to 3%. It is crucial to optimize these pages by improve factors such as pricing, product descriptions, images, and overall user experience to enhance conversion rates and minimize bounce rates.
