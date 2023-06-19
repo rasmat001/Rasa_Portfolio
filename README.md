@@ -18,6 +18,8 @@ Key findings:
 
 - [Dashboard](https://lookerstudio.google.com/s/ubvAaCiCxQg) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/capstone_project.sql), [Report]
 
+![](/images/capstone.jpg)
+
 ### Marketing Analysis (Session Time Analysis)
 
 The task was to analyze the overall trends of all marketing campaigns on Google Merchandise Store and find out if users tend to spend more time on the website on certain weekdays and how that behavior differs across campaigns.
