@@ -16,7 +16,7 @@ Key findings:
 - The online store experiences lower session and order volumes on weekends. To address this, implementing special promotions and incentives during weekends may help attract more customers.
 - Out of the analyzed product pages with over 100 visits, 28 pages exhibited poor conversion rates ranging from 0% to 3%. It is crucial to optimize these pages by improve factors such as pricing, product descriptions, images, and overall user experience to enhance conversion rates and minimize bounce rates.
 
-- [Dashboard](https://lookerstudio.google.com/s/ubvAaCiCxQg) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/capstone_project.sql), [Report]
+- [Dashboard](https://lookerstudio.google.com/s/ubvAaCiCxQg) (Looker Studio), [Query](https://github.com/rasmat001/Rasa_Portfolio/blob/main/queries/capstone_project.sql), [Report](https://docs.google.com/document/d/1Cs7EMs8h_NNZc60V4Khr5pZsCDsZ-KNpR0FVLLDshQY/edit?usp=sharing)
 
 ![](/images/capstone.jpg)
 
