@@ -5,7 +5,7 @@ Click on the blue links to see full dashboards or SQL queries.
 
 ### Customer Behavior and Product Pages Analysis in Online Electronics Store
 
-The task was to identify a unique problem applicable to a chosen dataset. I chose to analyze web events data from an online electronics store. The goal was to improve the conversion rate by addressing the following questions:
+The task was to identify a unique problem applicable to a chosen dataset. I chose to analyze web events data from an online electronics store. The goal of the analysis was to identify areas for conversion rate improvement by addressing the following questions:
 
 - Which stage of the purchase funnel experiences the highest customer drop-off?
 - Are there any trends in customer engagement based on weekdays?
